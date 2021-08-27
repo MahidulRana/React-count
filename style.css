@@ -1,0 +1,13 @@
+body{
+    background: rgb(78, 75, 75);
+    color: white;
+}
+button{
+    font-size: 2rem;
+    padding: 10px;
+    margin-right: 5px;
+    border-radius: 5px;
+    background-color: chocolate;
+    color: white;
+    width: 80px;
+}
